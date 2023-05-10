@@ -1,0 +1,16 @@
+.top-heading {
+    text-align: center;
+    padding: 50px;
+}
+
+
+.background-img {
+    /* background-image: url(../Image/Pic.jpg); */
+    height: auto;
+    width: 100vw;
+}
+
+
+.bg-light {
+    background-color: #46d9ed;
+}
